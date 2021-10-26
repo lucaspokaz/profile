@@ -21,6 +21,10 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
          alt="Facebook Lucas" height="30" width="40" />
   </a>
+  <a href="https://www.instagram.com/lucasemagalhaes" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+         alt="Instagram Lucas" height="30" width="40" />
+  </a>
 </p>
 
 ## Linguagens e Ferramentas
@@ -45,6 +49,13 @@
          style="background-color: white"
          alt="nodejs" width="40" height="40"/> 
   </a> 
+
+<a href="#" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/oracle-6.svg" 
+         style="background-color: white"
+         alt="nodejs" width="40" height="40"/> 
+  </a> 
+
   <a href="#" target="_blank"> 
     <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" 
          style="background-color: white"
