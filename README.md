@@ -22,3 +22,11 @@
          alt="Facebook Lucas" height="30" width="40" />
   </a>
 </p>
+
+## Linguagens e Ferramentas
+
+<p align="left"> 
+  <a href="https://nodejs.org/en/" target="_blank"> 
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="nodejs" width="40" height="40"/> 
+  </a> 
+</p>
