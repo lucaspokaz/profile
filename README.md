@@ -72,3 +72,10 @@
          alt="reactjs" width="40" height="40"/> 
   </a>
 </p>
+
+## Outras Habilidades
+
+#### Product Owner (Scrum)
+#### Scrum Master (Scrum)
+#### Perfil Analítico
+#### Consultor Empresarial (Pós graduação)
