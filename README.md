@@ -41,15 +41,23 @@
 
 <p align="left"> 
   <a href="#" target="_blank"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" 
+         style="background-color: white"
+         alt="nodejs" width="40" height="40"/> 
   </a> 
   <a href="#" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" alt="reactjs" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" 
+         style="background-color: white"
+         alt="reactjs" width="40" height="40"/> 
   </a>
   <a href="#" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="reactjs" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" 
+         style="background-color: white"
+         alt="reactjs" width="40" height="40"/> 
   </a>
   <a href="#" target="_blank"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="reactjs" width="40" height="40"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" 
+         style="background-color: white"
+         alt="reactjs" width="40" height="40"/> 
   </a>
 </p>
